@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gajender Jangir</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working at **Suvy Classes**
+- 🔭 I’m currently working at **Schneider Electric India**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Golang**
 
-- 🤝 I’m looking for a new role **Frontend Developer**
+- 🤝 I’m looking for a new role **FullStack Developer**
 
 - 📫 How to reach me **gajenderjangir07@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1G8feOSAheyayG7WNRUF6evZqkbTcWJEa/edit](https://docs.google.com/document/d/1G8feOSAheyayG7WNRUF6evZqkbTcWJEa/edit)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17xBhczjNDdstN3QIhYy3FbH6qXDoud4M/view](https://drive.google.com/file/d/17xBhczjNDdstN3QIhYy3FbH6qXDoud4M/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
